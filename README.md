@@ -1,4 +1,4 @@
-### Date: 26-08-2024
+### Date: 
 # Ex-2: Information_Gathering
 
 ## AIM:
